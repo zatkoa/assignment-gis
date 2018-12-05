@@ -18,10 +18,8 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 ## My project
 
-Fill in (either in English, or in Slovak):
+**Application description**: Aplikácia slúžiaca na prehľadávanie obcí na strednom Slovensku prioritne za účeľom presťahovania
 
-**Application description**: `<fill in>`
+**Data source**: [Open Street Maps](https://www.openstreetmap.org/)
 
-**Data source**: `<fill in>`
-
-**Technologies used**: `<fill in>`
+**Technologies used**: PostGIS, Laravel, Javascript, MapBox
